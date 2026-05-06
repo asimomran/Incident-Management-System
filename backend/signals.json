@@ -1,0 +1,93 @@
+[ {
+  "component" : "auth-service",
+  "error" : "timeout",
+  "timestamp" : "2026-05-06T16:31:00"
+}, {
+  "component" : "CACHE",
+  "error" : "redis not responding",
+  "timestamp" : "2026-05-06T16:35:13"
+}, {
+  "component" : "CACHE",
+  "error" : "redis not responding",
+  "timestamp" : "2026-05-06T16:35:13"
+}, {
+  "component" : "CACHE",
+  "error" : "redis not responding",
+  "timestamp" : "2026-05-06T16:35:13"
+}, {
+  "component" : "API",
+  "error" : "500 error",
+  "timestamp" : "2026-05-06T16:35:13"
+}, {
+  "component" : "CACHE",
+  "error" : "cache miss spike",
+  "timestamp" : "2026-05-06T16:35:13"
+}, {
+  "component" : "RDBMS",
+  "error" : "db down",
+  "timestamp" : "2026-05-06T16:35:13"
+}, {
+  "component" : "CACHE",
+  "error" : "redis not responding",
+  "timestamp" : "2026-05-06T16:35:13"
+}, {
+  "component" : "API",
+  "error" : "500 error",
+  "timestamp" : "2026-05-06T16:35:13"
+}, {
+  "component" : "CACHE",
+  "error" : "redis not responding",
+  "timestamp" : "2026-05-06T16:40:24"
+}, {
+  "component" : "CACHE",
+  "error" : "cache miss spike",
+  "timestamp" : "2026-05-06T16:40:24"
+}, {
+  "component" : "API",
+  "error" : "500 error",
+  "timestamp" : "2026-05-06T16:40:24"
+}, {
+  "component" : "RDBMS",
+  "error" : "connection timeout",
+  "timestamp" : "2026-05-06T16:40:24"
+}, {
+  "component" : "API",
+  "error" : "500 error",
+  "timestamp" : "2026-05-06T16:40:24"
+}, {
+  "component" : "CACHE",
+  "error" : "cache miss spike",
+  "timestamp" : "2026-05-06T16:40:24"
+}, {
+  "component" : "API",
+  "error" : "latency spike",
+  "timestamp" : "2026-05-06T16:40:24"
+}, {
+  "component" : "CACHE",
+  "error" : "redis not responding",
+  "timestamp" : "2026-05-06T16:40:24"
+}, {
+  "component" : "RDBMS",
+  "error" : "connection timeout",
+  "timestamp" : "2026-05-06T16:40:26"
+}, {
+  "component" : "RDBMS",
+  "error" : "connection timeout",
+  "timestamp" : "2026-05-06T16:40:26"
+}, {
+  "component" : "API",
+  "error" : "500 error",
+  "timestamp" : "2026-05-06T16:40:26"
+}, {
+  "component" : "RDBMS",
+  "error" : "db down",
+  "timestamp" : "2026-05-06T16:40:26"
+}, {
+  "component" : "API",
+  "error" : "500 error",
+  "timestamp" : "2026-05-06T16:40:26"
+}, {
+  "component" : "CACHE",
+  "error" : "cache miss spike",
+  "timestamp" : "2026-05-06T16:40:26"
+} ]
